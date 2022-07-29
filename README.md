@@ -8,9 +8,9 @@ Is a tool for add keys to your Termux app.
 * `$ pkg update && pkg upgrade`
 * `$ pkg install python`
 * `$ pkg install git`
-* `$ git clone https://github.com/karjok/terkey`
-* `$ cd terkey`
-* `$ python terkey.py`
+* `$ git clone https://github.com/AkhyarAzamta/termux-keyboard/`
+* `$ cd termux-keyboard`
+* `$ python termux-keyboard.py`
 
 
 Or you can just copy code bellow and paste to your Termux app and of course, press enter !
